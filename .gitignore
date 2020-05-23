@@ -1,0 +1,9 @@
+uploadingDir
+target
+out
+.settings
+.classpath
+.project
+.idea
+*.iml
+/.springBeans
